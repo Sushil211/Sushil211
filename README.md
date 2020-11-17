@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/ims_king" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ims_king" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sushil-sekhar-satapathy-78ab181a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sushil-sekhar-satapathy-78ab181a4" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sushil sekhar satapathy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sushil sekhar satapathy" height="30" width="40" /></a>
 <a href="https://fb.com/sushil sekhar satapathy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sushil sekhar satapathy" height="30" width="40" /></a>
 <a href="https://instagram.com/sushil_d_loser" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sushil_d_loser" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/s_king" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_king" height="30" width="40" /></a>
