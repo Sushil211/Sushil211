@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/s_king" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_king" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sushilsekhar300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sushilsekhar300" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sushilsekhar300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sushilsekhar300" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sushilsekhar300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sushilsekhar300" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@sushilsekhar300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="sushilsekhar300" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sushilsekhar300" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sushilsekhar300" height="30" width="40" /></a>
 </p>
 
