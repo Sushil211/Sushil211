@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil Sekhar Satapathy</h1>
-<h3 align="center">A passionate developer and a chess enthusiast</h3>
+<h3 align="center">A passionate developer and a chess enthusiast from Odisha, India</h3>
 
 - 🌱 I’m currently learning **flutter**
 
