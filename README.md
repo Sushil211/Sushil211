@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **sushilsekhar300@gmail.com**
 
+- ⚡ Fun fact **Code and Chess is ❤**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ims_king" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ims_king" height="30" width="40" /></a>
