@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **DSA, React.js and chess**
+- 💬 Ask me about **chess and cricket**
 
 - 📫 How to reach me **sushilsekhar300@gmail.com**
 
