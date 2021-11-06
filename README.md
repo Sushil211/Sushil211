@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ims_king" target="blank"><img src="https://img.shields.io/twitter/follow/ims_king?logo=twitter&style=for-the-badge" alt="ims_king" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
-
-- 💬 Ask me about **chess and cricket**
-
 - 📫 How to reach me **sushilsekhar300@gmail.com**
 
 - ⚡ Fun fact **Code and Chess is ❤**
