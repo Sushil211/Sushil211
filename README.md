@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushil Sekhar Satapathy</h1>
-<h3 align="center">A CSE Undergraduate and a chess lover from Odisha, India</h3>
+<h3 align="center">Just an insensitive human</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil211&label=Profile%20views&color=0e75b6&style=flat" alt="sushil211" /> </p>
 
